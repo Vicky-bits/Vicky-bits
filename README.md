@@ -21,11 +21,11 @@ Tools & Technologies: [Git, Docker, Kubernetes, CI/CD]
 🚀 Check out my repositories to see my latest work: GitHub Repositories
 
 **🌱 Currently Learning**  
-[Cloud Computing, AI/ML, DevOps]
-📬 Let's Connect!
-📌 Portfolio:
-📌 LinkedIn: www.linkedin.com/in/victoria-okon-1862a5272
-📌 Twitter/X: 
+[Cloud Computing, AI/ML, DevOps]  
+📬 Let's Connect!  
+📌 Portfolio:  
+📌 LinkedIn: www.linkedin.com/in/victoria-okon-1862a5272  
+📌 Twitter/X:   
 📌 Email: vickynaldo12345@gmail.com
 
 💡 "Code is like humor. When you have to explain it, it’s bad." – Cory House
