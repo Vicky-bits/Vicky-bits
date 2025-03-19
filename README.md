@@ -5,22 +5,22 @@
 **🔹 About Me**  
 I am a passionate software developer with expertise in building scalable, user-friendly applications. I enjoy solving complex problems with clean and efficient code. My goal is to create seamless digital experiences while continuously learning and growing in the tech industry.
 
-💻 Technical Skills  
+**💻 Technical Skills** 
 Languages: [JavaScript, Python, TypeScript,]
 Frontend: [React, Vue.js, HTML, CSS, Tailwind]
 Backend: [Node.js, Django, Flask, Express.js]
 Databases: [MySQL, PostgreSQL, MongoDB, Firebase]
 Tools & Technologies: [Git, Docker, Kubernetes, CI/CD]
 
-🔥 What I Do  
+**🔥 What I Do**  
 ✅ Frontend & Backend Development
 ✅ Graphics Desinger
 ✅ Problem-Solving & Algorithmic Thinking
 
-📌 Projects & Contributions  
+**📌 Projects & Contributions**  
 🚀 Check out my repositories to see my latest work: GitHub Repositories
 
-🌱 Currently Learning  
+**🌱 Currently Learning**  
 [Cloud Computing, AI/ML, DevOps]
 📬 Let's Connect!
 📌 Portfolio:
