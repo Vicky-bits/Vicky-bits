@@ -1,6 +1,6 @@
 # Hi there 👋, I'm Victoria
 
-🚀 Software Developer | Web & App Enthusiast | Tech Innovator
+***🚀 Software Developer | Web & App Enthusiast | Tech Innovator***
 
 **🔹 About Me**  
 I am a passionate software developer with expertise in building scalable, user-friendly applications. I enjoy solving complex problems with clean and efficient code. My goal is to create seamless digital experiences while continuously learning and growing in the tech industry.
