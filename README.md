@@ -32,7 +32,7 @@ Whether developing cutting-edge web applications or designing visually stunning 
 [Cloud Computing, AI/ML, DevOps]  
 📬 Let's Connect!  
 📌 Portfolio:  
-📌 [LinkedIn](www.linkedin.com/in/victoria-okon-1862a5272)  
+📌 [LinkedIn](https://www.linkedin.com/in/victoria-okon-1862a5272/))  
 📌 Twitter/X:   
 📌 Email: vickynaldo12345@gmail.com
 
