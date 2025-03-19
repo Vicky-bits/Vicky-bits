@@ -1,10 +1,8 @@
 # Hi there 👋, I'm Victoria
 
-***🚀 Software Developer | Web & App Enthusiast | Tech Innovator***
+***🚀 Software Developer | Web & App Enthusiast | Graphics Designer | Tech Innovator***
 
 **🔹 About Me**  
-Software Developer | Graphics Designer
-
 I'm a skilled software developer and graphics designer with a passion for creating intuitive digital experiences. With expertise in front-end and back-end development, I specialized in building responsive and user-friendly web applications using HTML, CSS, JavaScript, React, and Python. My technical proficiency extends to UI/UX design, ensuring seamless functionality and aesthetic appeal in all my projects.
 
 As a graphics designer, I brings creativity to life through visually compelling designs, branding solutions, and multimedia content.  I'm proficient in industry-standard tools like Adobe Photoshop, Coraldraw, and Figma, crafting high-quality designs for websites, social media, and marketing campaigns.
