@@ -1,6 +1,6 @@
 # Hi there 👋, I'm Victoria
 
-***🚀 Front-end Developer | Web & App Enthusiast | Graphics Designer | Tech Innovator***
+***🚀 Front-end Developer | Web & App Enthusiast | Brand Identity Designer | Tech Innovator***
 
 **🔹 About Me**  
 I'm a skilled Front-end developer and graphics designer with a passion for creating intuitive digital experiences. With expertise in front-end  development, I specialized in building responsive and user-friendly web applications using HTML, CSS, JavaScript and React. 
